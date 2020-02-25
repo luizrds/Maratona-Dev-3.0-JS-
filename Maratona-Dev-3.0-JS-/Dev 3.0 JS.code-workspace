@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "DEV 3.0 - JavaScript"
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+}
